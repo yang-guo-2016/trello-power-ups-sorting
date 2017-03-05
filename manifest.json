@@ -5,18 +5,9 @@
   "icon": {
     "url": "./images/logo.png"
   },
-  "author": "Trello Inc",
+  "author": "yang.guo",
   "capabilities": [
-    "attachment-sections",
-    "attachment-thumbnail",
-    "board-buttons",
-    "callback",
-    "card-badges",
-    "card-buttons",
-    "card-detail-badges",
-    "card-from-url",
-    "format-url",
-    "show-settings"
+    "board-buttons"
   ],
   "connectors": {
     "iframe": {
